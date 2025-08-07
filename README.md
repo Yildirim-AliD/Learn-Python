@@ -2,12 +2,6 @@
 
 This repository is designed for beginners who want to learn Python step-by-step through interactive Jupyter notebooks. It covers fundamental concepts and gradually introduces more advanced topics like data structures and object-oriented programming.
 
-## Target Audience
-
-- Complete beginners to programming
-- University students learning Python
-- Anyone looking to strengthen their understanding of algorithms and core computer science concepts
-
 ## Requirements
 
 To run the Jupyter notebooks in this repository, you need:
